@@ -1,0 +1,13 @@
+# Local .terraform directories
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash log files
+crash.log
+
+# .terraform.lock.hcl can be committed or ignored.
+# If you want to ignore it:
+.terraform.lock.hcl
